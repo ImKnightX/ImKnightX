@@ -1,4 +1,4 @@
-👋 Hi! I'm ImKnightX, a self former web developer and telecomunications engineering student, learning HTML5, CSS, Javascript and Python.
+👋 Hi! I'm ImKnightX, a self learning web developing and telecomunications engineering student, learning HTML5, CSS, Javascript and Python.
 Contact: ✉ isaacmendozaknight@gmail.com or message me via Twitter @IsaacMKnight79.
 
 <!---
